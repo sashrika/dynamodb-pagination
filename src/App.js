@@ -33,7 +33,7 @@ const themeLight = createMuiTheme({
   },
 });
 
-const apiEndPoint = procecc.env.REACT_APP_API_URL
+const apiEndPoint = process.env.REACT_APP_API_URL
 
 const Pagination = () => {  
   const classes = useStyles();
