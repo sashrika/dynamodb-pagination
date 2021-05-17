@@ -1,8 +1,8 @@
 {
-  "name": "liveroom-pagination",
+  "name": "dynamodb-pagination",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pavindulakshan.github.io/liveroom-pagination-app",
+  "homepage": "https://sashrika.github.io/dynamodb-pagination",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
@@ -18,7 +18,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "yarn build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {

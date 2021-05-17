@@ -1,1 +1,1 @@
-## Liveroom Pagination App
+## DynamoDB Pagination App
